@@ -1,0 +1,3 @@
+display_name: 软考架构师备考
+short_description: 维护系统架构设计师备考项目上下文。
+default_prompt: 请根据本项目的 Skill 和备考资料，继续规划或调整系统架构设计师备考任务。
